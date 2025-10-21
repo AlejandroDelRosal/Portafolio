@@ -8,7 +8,6 @@ Welcome! This portfolio showcases my data analysis and machine learning projects
 ### 1. Predicting Health Insurance Costs
 - **Description:** A linear regression model to predict health insurance costs based on patient characteristics.
 - **Technologies:** Python, Pandas, Scikit-learn, Seaborn.
-- **[See full analysis (Notebook)](https://github.com/AlejandroDelRosal/Portafolio/commit/6919124b8b6e47590ae7131acc6321f04ae0b94f)**
+- **[See full analysis (Notebook)](./data-science/proyecto_costo_seguros/costo-de-seguros.ipynb)**
 - **[Original Dataset (Kaggle)](https://www.kaggle.com/datasets/mirichoi0218/insurance)**
 
-Translated with DeepL.com (free version)
