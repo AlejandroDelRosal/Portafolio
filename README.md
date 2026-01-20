@@ -32,6 +32,17 @@ Welcome! This portfolio showcases my transition from academic research in Physic
 * **Technologies:** Python, Pandas, Scikit-learn, Seaborn.
 * **Original Dataset:** Kaggle.
 
+### 5. Algorithmic String Processing & Palindrome Library
+**Description:** A modular Python package designed for computational linguistics and symmetry analysis. This project emphasizes high-quality software engineering practices, including Unicode normalization and efficient algorithmic logic.
+
+* **Symmetry Analysis Engine:** Implements an $O(n)$ frequency-counting algorithm to determine if a string's character set can form a palindrome, regardless of its original order.
+* **Generative Reconstruction:** Algorithmic logic to rebuild symmetric strings by strategically distributing character parity across a left-center-right symmetry axis.
+* **Robust Normalization Pipeline:** Integrated a text-cleaning utility using Unicode normalization (NFKD) and Regular Expressions to handle diacritics, special characters, and linguistic noise.
+* **Modular Architecture:** Designed with professional package standards (modular structure, `__init__.py` exposition, and Google-style Docstrings) for high maintainability and clarity.
+
+**Technologies:** Python, Collections (Counter), Unicodedata, Regex (re).
+**Key Concepts:** Algorithm Design, Text Normalization, Software Modularization.
+
 ## 📫 Contact
 * [LinkedIn Profile](https://www.linkedin.com/in/alejandro-delrosal-saucedo/)
 * mars.delrosal@gmail.com
