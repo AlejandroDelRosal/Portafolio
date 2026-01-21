@@ -1,5 +1,6 @@
-import verificacion as v
+from .core import puede_ser_palindromo,construir_palindromo
+from .utils import limpiar_texto
 
-palabra_verificada=v.es_palindromo('ana')
+__all__ = ['puede_ser_palindromo', 'construir_palindromo','limpiar_texto']
 
-print(palabra_verificada)
+__version__ = '0.1.0'
