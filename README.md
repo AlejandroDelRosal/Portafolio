@@ -96,6 +96,6 @@ Description: A modular Python package designed for computational linguistics and
 
 📫 Contact
 
-    LinkedIn Profile
+    [LinkedIn Profile](https://www.linkedin.com/in/alejandro-delrosal-saucedo/)
 
     mars.delrosal@gmail.com
