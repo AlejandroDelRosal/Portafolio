@@ -4,6 +4,16 @@
 
 Welcome! This portfolio showcases my transition from academic research in Physics to Data Science and Quantitative Finance, highlighting my ability to apply advanced mathematical models to real-world problems.
 
+## Repos dedicados por área
+
+* [physics-computational](https://github.com/AlejandroDelRosal/physics-computational): física computacional (mecánica cuántica, caos, Monte Carlo, dinámica molecular)
+* [quant-finance-lab](https://github.com/AlejandroDelRosal/quant-finance-lab): finanzas cuantitativas (VaR/CVaR, pricing de derivados, backtesting, NLP financiero)
+* [ml-portfolio](https://github.com/AlejandroDelRosal/ml-portfolio): más modelos de machine learning
+* [data-engineering-dbt](https://github.com/AlejandroDelRosal/data-engineering-dbt): pipelines de datos con dbt
+* [mlops-aws](https://github.com/AlejandroDelRosal/mlops-aws): despliegue de modelos en AWS
+* [medical-health-analytics](https://github.com/AlejandroDelRosal/medical-health-analytics): analítica en salud
+* [bio-humanity-research](https://github.com/AlejandroDelRosal/bio-humanity-research): investigación personal en biología y sistemas complejos
+
 ## 🚀 Projects
 
 ### 1. Machine Learning Credit Risk Modeling (Credit Scoring)
