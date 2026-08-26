@@ -1,0 +1,21 @@
+[submodule "physics-computational"]
+	path = physics-computational
+	url = https://github.com/AlejandroDelRosal/physics-computational.git
+[submodule "quant-finance-lab"]
+	path = quant-finance-lab
+	url = https://github.com/AlejandroDelRosal/quant-finance-lab.git
+[submodule "ml-portfolio"]
+	path = ml-portfolio
+	url = https://github.com/AlejandroDelRosal/ml-portfolio.git
+[submodule "data-engineering-dbt"]
+	path = data-engineering-dbt
+	url = https://github.com/AlejandroDelRosal/data-engineering-dbt.git
+[submodule "mlops-aws"]
+	path = mlops-aws
+	url = https://github.com/AlejandroDelRosal/mlops-aws.git
+[submodule "medical-health-analytics"]
+	path = medical-health-analytics
+	url = https://github.com/AlejandroDelRosal/medical-health-analytics.git
+[submodule "bio-humanity-research"]
+	path = bio-humanity-research
+	url = https://github.com/AlejandroDelRosal/bio-humanity-research.git
