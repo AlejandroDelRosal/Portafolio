@@ -4,15 +4,17 @@
 
 Welcome! This portfolio showcases my transition from academic research in Physics to Data Science and Quantitative Finance, highlighting my ability to apply advanced mathematical models to real-world problems.
 
-## Repos dedicados por área
+## Related Repositories
 
-* [physics-computational](https://github.com/AlejandroDelRosal/physics-computational): física computacional (mecánica cuántica, caos, Monte Carlo, dinámica molecular)
-* [quant-finance-lab](https://github.com/AlejandroDelRosal/quant-finance-lab): finanzas cuantitativas (VaR/CVaR, pricing de derivados, backtesting, NLP financiero)
-* [ml-portfolio](https://github.com/AlejandroDelRosal/ml-portfolio): más modelos de machine learning
-* [data-engineering-dbt](https://github.com/AlejandroDelRosal/data-engineering-dbt): pipelines de datos con dbt
-* [mlops-aws](https://github.com/AlejandroDelRosal/mlops-aws): despliegue de modelos en AWS
-* [medical-health-analytics](https://github.com/AlejandroDelRosal/medical-health-analytics): analítica en salud
-* [bio-humanity-research](https://github.com/AlejandroDelRosal/bio-humanity-research): investigación personal en biología y sistemas complejos
+Each area also has its own dedicated repository where new work is added over time, each with its own history, releases, and pull request workflow:
+
+* [physics-computational](https://github.com/AlejandroDelRosal/physics-computational): computational physics (quantum mechanics, chaos, Monte Carlo, molecular dynamics)
+* [quant-finance-lab](https://github.com/AlejandroDelRosal/quant-finance-lab): quantitative finance (VaR/CVaR, derivatives pricing, backtesting, financial NLP)
+* [ml-portfolio](https://github.com/AlejandroDelRosal/ml-portfolio): additional machine learning models
+* [data-engineering-dbt](https://github.com/AlejandroDelRosal/data-engineering-dbt): data pipelines with dbt
+* [mlops-aws](https://github.com/AlejandroDelRosal/mlops-aws): model deployment on AWS
+* [medical-health-analytics](https://github.com/AlejandroDelRosal/medical-health-analytics): healthcare analytics
+* [bio-humanity-research](https://github.com/AlejandroDelRosal/bio-humanity-research): independent research in computational biology and complex systems
 
 ## 🚀 Projects
 
